@@ -4,8 +4,8 @@ import uuid
 import requests
 import json
 
-api_url = 'https://5f27a5j9wg.apigw.ntruss.com/custom/v1/30638/82cedb1154a1ee7a7b5ed5981f2205723406eb7f9b0fcf6bea9734f8a9624819/general'
-secret_key = 'WG9rbnlWR3BmdG1vY1ZZR1RqT0RneW1pcFpBWkNWQ3c='
+api_url = ''
+secret_key = ''
 
 path = '/Users/jang-gyeonghun/24PF012/Chatbot/Python/test.jpeg'
 files = [('file', open(path,'rb'))]
